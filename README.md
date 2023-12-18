@@ -1,3 +1,3 @@
-# this is kalidas \n
-## this is also kalidas \n
+# this is kalidas 
+## this is also kalidas 
 ### original member of thakida thakida gang
